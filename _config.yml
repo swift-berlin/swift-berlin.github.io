@@ -11,6 +11,8 @@ twitter_username: swiftberlin
 github_username:  jensravens
 port: 3000
 
+permalink: :title/
+
 # Build settings
 markdown: kramdown
 
@@ -21,4 +23,3 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: ':title/'

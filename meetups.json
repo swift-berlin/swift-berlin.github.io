@@ -1,0 +1,32 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts %}
+  {
+    "title": "{{ post.title | xml_escape }}",
+    "date": "{{ post.date | date_to_rfc822 }}",
+    "location": {
+      "name": "{{ post.location.name | xml_escape }}",
+      "url": "{{ post.location.url }}",
+      "about": "{{ post.location.about | xml_escape }}",
+      "address": [
+        {% for line in post.location.address %}
+          "{{line | xml_escape}}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    },
+    "speakers": [
+      {% for speaker in post.speakers %}
+        {
+          "name": "{{ speaker.name | xml_escape }}",
+          "about": "{{ speaker.about | xml_escape }}",
+          "image": "http://swift.berlin/img/speakers/{{ speaker.image | xml_escape }}.jpg",
+          "abstract": "{{ speaker.abstract | xml_escape }}",
+          "title": "{{ speaker.title | xml_escape }}"
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

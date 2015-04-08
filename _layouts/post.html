@@ -83,10 +83,12 @@ layout: default
         <h3>Drinks and tech</h3>
         <p>{{page.drinks}}</p>
       </div>
-      <div class="col-sm-4">
-        <h3>About the location</h3>
-        <p>{{page.location.about}}</p>
-      </div>
+      {% if page.location.about %}
+        <div class="col-sm-4">
+          <h3>About the location</h3>
+          <p>{{page.location.about}}</p>
+        </div>
+      {% endif %}
     </div>
   </div>
 </section>

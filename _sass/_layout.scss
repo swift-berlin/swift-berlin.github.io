@@ -1,0 +1,71 @@
+.mainNav {
+  padding: $padding 0;
+
+  .logo {
+    display: inline-block;
+    width: 50px;
+  }
+
+  .logo-text {
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    letter-spacing: -1px;
+  }
+
+  .mainNav-links {
+    font-weight: bold;
+    a {
+      color: $color-text-muted;
+      margin: 0 15px;
+      line-height: 50px;
+    }
+  }
+}
+
+
+.bigHeader {
+  img {
+    display: inline-block !important;
+  }
+}
+
+
+.signup {
+  background-color: #2c3e50;
+  padding: 40px 0;
+
+  input {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    background: transparent;
+    line-height: 59.99999999999999px;
+    font-size: 50px;
+    color: white;
+    font-weight: 500;
+    letter-spacing: -1px;
+  }
+
+  .btn {
+    margin-top: 10px;
+    font-size: 17px;
+  }
+}
+
+
+.speaker-info {
+  .links {
+    border-top: 1px solid $color-text-muted;
+
+    a {
+      display: block;
+      margin: 5px 0;
+    }
+  }
+}

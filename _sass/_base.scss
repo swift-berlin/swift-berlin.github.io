@@ -1,0 +1,44 @@
+body {
+    font-family: $font-family;
+    font-size: $font-size;
+    line-height: 1.5;
+    color: $color-text;
+    background-color: $color-background;
+    -webkit-text-size-adjust: 100%;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+
+html, body {
+  position: relative;
+  min-height: 100%;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: $padding;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+section {
+  margin-bottom: 3*$padding;
+}
+
+body {
+  padding-bottom: 60px;
+}
+
+a {
+  color: $color-tint;
+
+  &:hover {
+    color: $color-tint;
+  }
+}

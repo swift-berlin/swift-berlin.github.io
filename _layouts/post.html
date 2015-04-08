@@ -1,0 +1,140 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <header class="bigHeader text-center">
+   <img src="/img/icon.png" class="bigHeader-logo">
+   <h1>{{page.title}}</h1>
+   <p class="lead">
+    {{ page.date | date: "%A, %b %-d, %Y" }}<br>
+    @ <a href="{{page.location.url}}" target="new">{{page.location.name}}</a>
+   </p>
+   <p class="lead">
+     RSVP on <br>
+     <img border="0" alt="Swift Berlin" src="http://img.meetup.com/img/logo_82.png">
+   </p>
+ </header>
+
+ <section id="about" class="row">
+   <div class="col-sm-4 col-sm-offset-2">
+     <h3>Talks</h3>
+     <p>
+       We have {{page.speakers.size }} inspiring talks this time, each about 30 minutes.
+     </p>
+   </div>
+   <div class="col-sm-4">
+     <h3>Startup Safari</h3>
+     <p>
+       Let's travel to Berlins most exciting startups, office by office. See what companies do with Swift, iOS and OS X.
+     </p>
+   </div>
+ </section>
+</div>
+
+{{ content }}
+
+<div class="container">
+  <h2>Speakers</h2>
+  {% if page.speakers.size > 0 %}
+    <div class="row">
+      {% for speaker in page.speakers %}
+        <div class="col-sm-4 speaker">
+          <img src="/img/speakers/{{speaker.image}}.jpg">
+          <div class="speaker-info">
+            <h3>{{speaker.name}}</h3>
+            <p><strong>{{speaker.title}}</strong></p>
+            <p>{{speaker.abstract}}</p>
+            <p>{{speaker.about}}</p>
+            <p class="links">
+              {% for link in speaker.links %}
+                <a href="{{link.url}}" target="new">{{link.name}}</a>
+              {% endfor %}
+            </p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <h3 class="text-center">Speakers will be announced soon</h3>
+  {% endif %}
+</div>
+
+
+<section id="location" class="map">
+  <div class="container">
+    <h2>Venue</h2>
+  </div>
+  <iframe width="100%" height="300px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{page.location.map}}"></iframe>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <h3>{{page.location.name}}</h3>
+        <p>
+          {% for line in page.location.address %}
+            {{line}}<br>
+          {% endfor %}
+          <br>
+          <a href="{{page.location.url}}" target="new">{{page.location.url}}</a>
+        </p>
+      </div>
+      <div class="col-sm-4">
+        <h3>Drinks and tech</h3>
+        <p>{{page.drinks}}</p>
+      </div>
+      <div class="col-sm-4">
+        <h3>About the location</h3>
+        <p>{{page.location.about}}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="signup" class="signup">
+  <form method="post" action="http://nerdgeschossberlin.us7.list-manage1.com/subscribe/post?u=908a2b4a2459206128cbf70df&id=882566a362" name="mc-embedded-subscribe-form">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8">
+          <input type="text" name="EMAIL" placeholder="Enter your e-mail" spellcheck="false">
+        </div>
+        <div class="col-sm-4">
+          <button class="btn btn-large btn-danger" type="submit">Subscribe to our newsletter</button>
+        </div>
+      </div>
+    </div>
+  </form>
+</section>
+
+<secion id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3">
+        <h3>nerdgeschoss GmbH</h3>
+        <p>
+          Wilhelmstraße 41<br>
+          D-10963 Berlin<br>
+          +49 30 36 42 86 58
+        </p>
+        <p>
+          <a href="http://nerdgeschoss.de/contact/">Impressum</a>
+        </p>
+      </div>
+      <div class="col-sm-4">
+        <h3>Help</h3>
+        <p>Need help? Don’t hestiate to ask us something. Email us directly at
+          <a href="#">hello@nerdgeschoss.de</a>.
+          You can checkout our <a href="http://nerdgeschoss.de">website</a> or the <a href="http://www.meetup.com/swift-berlin/events/187497112/">meetup group</a>.
+        </p>
+      </div>
+      <div class="col-sm-3">
+        <h3 id="archive">Archive</h3>
+        <p>
+          {% for post in site.posts %}
+            <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}} @ {{post.location.name}}</a><br>
+          {% endfor %}
+        </p>
+      </div>
+    </div>
+  </div>
+</secion>

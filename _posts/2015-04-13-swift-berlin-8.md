@@ -15,7 +15,7 @@ location:
 speakers:
   -
     name: Marco Conti
-    title: A case study: our experience on adopting SWIFT in the data model layer
+    title: 'A case study: our experience on adopting SWIFT in the data model layer'
     image: marcoconti83
     about: Former average Italian, now enthusiastic programmer and country hopper
     links:

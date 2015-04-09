@@ -13,4 +13,21 @@ location:
     - first entrance to the right,
     - look for “Zeta” on the companies list
 speakers:
+  -
+    name: Marco Conti
+    image: marcoconti83
+    about: Former average Italian, now enthusiastic programmer and country hopper
+    links:
+      -
+        url: https://twitter.com/marcoconti83
+        name: '@marcoconti83'
+
+  -
+    name: Marcio Klepacz
+    title: Testing view controllers with Quick and Nimble
+    image: marciok
+    links:
+      -
+        url: https://twitter.com/marciok
+        name: '@MarcioK'
 ---

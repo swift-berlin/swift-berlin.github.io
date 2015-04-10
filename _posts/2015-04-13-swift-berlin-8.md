@@ -26,8 +26,7 @@ speakers:
     name: Marcio Klepacz
     title: Testing view controllers with Quick and Nimble
     about: View controllers are one of the pillars of your app architecture, they are the place where the user interface connects with the app logic and model, an involuntary change can cause a big damage, testing them is fundamental, although not so easy to do it.
-    
-    Marcio is an iOS Developer originally from Brazil, currently working at GetYourGuide in Berlin.
+    about: Marcio is an iOS Developer originally from Brazil, currently working at GetYourGuide in Berlin. He is a retired kitesurfer a pony and likes to contribute to open source when he's not trying to finish some useless projects. 
     image: marciok
     links:
       -

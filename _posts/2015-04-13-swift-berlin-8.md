@@ -11,7 +11,7 @@ location:
     - Hackescher Hof,
     - Aufgang 1,
     - first entrance to the right,
-    - look for “Zeta” on the companies list
+    - look for “Zeta” on the companies list, fifth floor
 speakers:
   -
     name: Marco Conti

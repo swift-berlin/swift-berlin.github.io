@@ -86,6 +86,9 @@ layout: default
       <div class="col-sm-4">
         <h3>Drinks and tech</h3>
         <p>{{page.drinks}}</p>
+        {% if page.location.logo %}
+          <img src="{{page.location.logo}}">
+        {% endif %}
       </div>
       {% if page.location.about %}
         <div class="col-sm-4">

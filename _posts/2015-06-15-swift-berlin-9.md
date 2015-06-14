@@ -17,7 +17,7 @@ location:
 speakers:
   -
     name: Maxim Zaks
-    title: UIKonf 2015
+    title: UIKonf App Architecture & Data Oriented Design
     image: iceX33
     about: Software developer with a passion for Games, Testing and Agile.
     links:

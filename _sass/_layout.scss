@@ -3,7 +3,8 @@
 
   .logo {
     display: inline-block;
-    width: 50px;
+    height: 30px;
+    margin: 5px 0 15px;
   }
 
   .logo-text {
@@ -17,7 +18,7 @@
   }
 
   .mainNav-links {
-    font-weight: bold;
+    font-weight: 300;
     a {
       color: $color-text-muted;
       margin: 0 15px;

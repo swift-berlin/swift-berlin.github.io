@@ -16,7 +16,7 @@ location:
 speakers:
   -
     name: Maxim Zaks
-    title: UIKonf 2015
+    title: UIKonf App Architecture & Data Oriented Design
     image: iceX33
     about: Software developer with a passion for Games, Testing and Agile.
     links:
@@ -30,7 +30,7 @@ speakers:
   -
     name: Jens Ravens
     image: jensravens
-    title: WWDC 2015
+    title: Swift 2
     about: 'Jens is an iOS and OS X Developer, writing ObjC since 2006. Currently working at <a href="http://nerdgeschoss.de" target="new">nerdgeschoss</a> helping clients to create awesome apps.'
     links:
       -

@@ -1,6 +1,7 @@
 ---
 title:  'swift.berlin #10'
 drinks: Wi-fi and drinks are free (sponsored by Zalando).
+permalink: /
 location:
   name: Zalando
   url: http://tech.zalando.com

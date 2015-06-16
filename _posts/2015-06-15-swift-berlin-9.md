@@ -1,6 +1,5 @@
 ---
 title:  'swift.berlin #9'
-permalink: /
 drinks: Wi-fi, drinks and pizza are free (sponsored by GetYourGuide).
 location:
   name: GetYourGuide

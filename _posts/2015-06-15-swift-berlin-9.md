@@ -23,6 +23,9 @@ speakers:
       -
         url: https://twitter.com/iceX33
         name: '@iceX33'
+      -
+        url: http://de.slideshare.net/maximzaks/uikonf-app-data-driven-desing
+        name: Slides on SlideShare
 
   -
     name: Jens Ravens
@@ -36,4 +39,7 @@ speakers:
       -
         url: https://twitter.com/jensravens
         name: '@JensRavens'
+      -
+        url: http://www.slideshare.net/jensravens/swift-2
+        name: Slides on SlideShare
 ---

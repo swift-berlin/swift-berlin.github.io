@@ -14,4 +14,14 @@ location:
     - Mollstraße 1,
     - 10178 Berlin
 speakers:
+  -
+    name: Boris Bügling
+    title: Native watch apps and third-party complications
+    image: neonacho
+    about: iOS at Contentful and Senior VP of Evil at CocoaPods.
+    abstract: Let's take a practical look at Apple's newest development platform watchOS, by implementing a GitHub streak custom complication and a native Spotify watch app.
+    links:
+      -
+        url: https://twitter.com/NeoNacho
+        name: '@NeoNacho'
 ---

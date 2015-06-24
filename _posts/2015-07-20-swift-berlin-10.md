@@ -24,4 +24,17 @@ speakers:
       -
         url: https://twitter.com/NeoNacho
         name: '@NeoNacho'
+  -
+    name: Jens Ravens
+    image: jensravens
+    title: Hipster Oriented Programming
+    about: 'Jens is an iOS and OS X Developer, writing ObjC since 2006. Currently working at <a href="http://nerdgeschoss.de" target="new">nerdgeschoss</a> helping clients to create awesome apps.'
+    abstract: Not sure if you should order a burrito or a monad for lunch? Get a quick overview over Object Oriented, Functional and Protocol Oriented programming and learn what all that fuss is about.
+    links:
+      -
+        url: http://nerdgeschoss.de
+        name: nerdgeschoss.de
+      -
+        url: https://twitter.com/jensravens
+        name: '@JensRavens'
 ---

@@ -27,8 +27,12 @@ speakers:
   -
     name: Ramy Khoury
     title: Improve compilation times of Swift projects
-    image: anon
+    image: ramy_kfoury
     about: iOS at Zalando
+    links:
+      -
+        url: https://twitter.com/ramy_kfoury
+        name: '@ramy_kfoury'
   -
     name: Jens Ravens
     image: jensravens

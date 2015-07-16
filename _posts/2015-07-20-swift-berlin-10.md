@@ -25,6 +25,11 @@ speakers:
         url: https://twitter.com/NeoNacho
         name: '@NeoNacho'
   -
+    name: Ramy Khoury
+    title: Improve compilation times of Swift projects
+    image: anon
+    about: iOS at Zalando
+  -
     name: Jens Ravens
     image: jensravens
     title: Hipster Oriented Programming

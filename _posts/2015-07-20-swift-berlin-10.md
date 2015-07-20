@@ -24,6 +24,12 @@ speakers:
       -
         url: https://twitter.com/NeoNacho
         name: '@NeoNacho'
+      -
+        url: https://speakerdeck.com/neonichu/native-watch-apps-and-third-party-complications
+        name: Slides (PDF)
+      -
+        url: https://github.com/neonichu/building-watchos-apps
+        name: Slides (GitHub repo)
   -
     name: Ramy Khoury
     title: Improve compilation times of Swift projects

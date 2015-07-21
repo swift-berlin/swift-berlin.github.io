@@ -52,4 +52,7 @@ speakers:
       -
         url: https://twitter.com/jensravens
         name: '@JensRavens'
+      -
+        url: http://www.slideshare.net/jensravens/hipster-oriented-programming
+        name: Slides (Slideshare)
 ---

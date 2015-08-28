@@ -13,6 +13,4 @@ location:
     - Fyber GmbH
     - Johannisstraße 20
     - 10117 Berlin
-speakers:
-
 ---

@@ -62,8 +62,15 @@ layout: default
         </div>
       {% endfor %}
     </div>
-  {% else %}
-    <h3 class="text-center">Speakers will be announced soon</h3>
+  {% endif %}
+  {% if page.speakers == nil or page.speakers.size < 3 %}
+    <div class="row text-center">
+      <div class="col-md-8 col-md-offset-2">
+        <h3>Speakers wanted!</h3>
+        <p>Hey, do you want to propose a talk? Open an issue with your idea on our
+        repo at <a href="https://github.com/swift-berlin/swift-berlin.github.io" target="new">GitHub</a>!</p>
+      </div>
+    </div>
   {% endif %}
 </div>
 

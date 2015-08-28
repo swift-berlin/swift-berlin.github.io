@@ -1,0 +1,28 @@
+.ribbon {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  overflow: hidden;
+  width: 150px;
+  height: 150px;
+
+  .ribbon-content {
+    position: absolute;
+    top: 40px;
+    right: -100px;
+    width: 300px;
+    height: 20px;
+    line-height: 20px;
+    -webkit-transform: rotateZ(45deg);
+    -moz-transform: rotateZ(45deg);
+    -ie-transform: rotateZ(45deg);
+    transform: rotateZ(45deg);
+    display: block;
+
+    background-color: $color-tint;
+    color: white;
+    font-size: 0.8em;
+    text-align: center;
+  }
+}

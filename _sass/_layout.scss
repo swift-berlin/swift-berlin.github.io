@@ -19,6 +19,12 @@
 
   .mainNav-links {
     font-weight: 300;
+    text-align: center;
+
+    @media(min-width: 1024px) {
+      text-align: right;
+    }
+
     a {
       color: $color-text-muted;
       margin: 0 15px;

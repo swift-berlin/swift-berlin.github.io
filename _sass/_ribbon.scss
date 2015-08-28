@@ -6,6 +6,7 @@
   overflow: hidden;
   width: 150px;
   height: 150px;
+  pointer-events: none;
 
   .ribbon-content {
     position: absolute;
@@ -24,5 +25,6 @@
     color: white;
     font-size: 0.8em;
     text-align: center;
+    pointer-events: auto;
   }
 }

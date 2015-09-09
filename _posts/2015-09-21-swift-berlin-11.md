@@ -13,4 +13,10 @@ location:
     - Fyber GmbH
     - Johannisstraße 20
     - 10117 Berlin
+speakers:
+  -
+    name: Maxim Zaks
+    Twitter: @iceX33
+    title: The ground work
+    abstract: I want to talk about data structures, value vs. reference type and maybe even singleton pattern. 
 ---

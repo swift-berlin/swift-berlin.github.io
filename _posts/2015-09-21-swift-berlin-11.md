@@ -16,7 +16,11 @@ location:
 speakers:
   -
     name: Maxim Zaks
-    Twitter: @iceX33
+    image: iceX33
     title: The ground work
-    abstract: I want to talk about data structures, value vs. reference type and maybe even singleton pattern. 
+    abstract: I want to talk about data structures, value vs. reference type and maybe even singleton pattern.
+    links:
+      -
+        url: https://twitter.com/iceX33
+        name: '@iceX33'
 ---

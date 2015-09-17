@@ -24,6 +24,18 @@ speakers:
         url: https://twitter.com/iceX33
         name: '@iceX33'
   -
+    name: Edgar Neto and Karolis Stasaitis
+    image: edgarjcfn
+    title: Building UI Views Programatically with SnapKit
+    abstract: We will show how to build UI Views programatically using SnapKit's DSL instead of Interface Builder. We will also expand the discussion about reuse of graphical components through composition (instead of inheritance).
+    links:
+      -
+        url: https://twitter.com/edgarjcfn
+        name: '@edgarjcfn'
+      -
+        url: https://twitter.com/carlossless
+        name: '@carlossless'
+  -
     name: Jens Ravens
     image: jensravens
     title: Get some Swag - Porting Swift to the server

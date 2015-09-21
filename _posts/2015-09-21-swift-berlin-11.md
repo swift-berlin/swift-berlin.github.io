@@ -35,18 +35,4 @@ speakers:
       -
         url: https://twitter.com/carlossless
         name: '@carlossless'
-  -
-    name: Jens Ravens
-    image: jensravens
-    title: Get some Swag - Porting Swift to the server
-    about: 'Jens is an iOS and OS X Developer, writing ObjC since 2006. Currently working at <a href="http://nerdgeschoss.de" target="new">nerdgeschoss</a> helping clients to create awesome apps.'
-    abstract: With the WWDC 2015 came the announcement of the open source release of Swift and a linux compatible standard library. Time to explore some new plattforms and possibilities!
-    links:
-      -
-        url: http://nerdgeschoss.de
-        name: nerdgeschoss.de
-      -
-        url: https://twitter.com/jensravens
-        name: '@JensRavens'
-      -
 ---

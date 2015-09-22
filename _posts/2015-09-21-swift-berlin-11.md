@@ -35,4 +35,7 @@ speakers:
       -
         url: https://twitter.com/carlossless
         name: '@carlossless'
+      -
+        url: https://github.com/edgarjcfn/swift.berlin-210915
+        name: 'Slides and Examples on GitHub'
 ---

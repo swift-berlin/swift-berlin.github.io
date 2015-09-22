@@ -23,6 +23,9 @@ speakers:
       -
         url: https://twitter.com/iceX33
         name: '@iceX33'
+      -
+        url: http://www.slideshare.net/maximzaks/basics-of-computer-science-53052213
+        name: 'Slides on Slideshare'
   -
     name: Edgar Neto and Karolis Stasaitis
     image: edgarjcfn

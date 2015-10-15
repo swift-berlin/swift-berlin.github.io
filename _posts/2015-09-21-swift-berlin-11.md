@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #11'
 drinks: Wi-fi, drinks and food are free (sponsored by Fyber).
-permalink: /
 location:
   name: Fyber
   url: http://www.fyber.com/

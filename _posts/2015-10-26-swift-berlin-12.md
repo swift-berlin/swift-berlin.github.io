@@ -14,4 +14,12 @@ location:
     - Kohlfurter Strasse 41/43
     - 10999 Berlin
 speakers:
+  -
+    name: Onur Akpolat
+    image: onur
+    title: Building Social Apps with Tapglue
+    links:
+      -
+        url: https://www.tapglue.com
+        name: Tapglue
 ---

@@ -26,4 +26,17 @@ speakers:
       -
         url: https://www.tapglue.com
         name: Tapglue
+  -
+    name: Oliver Eikemeier
+    image: oliver
+    title: Let’s dissect ZContainer
+    abstract: On CocoaHeads Berlin we introduced a method to modularize an app using a service locator. In this talk the concrete implementation of this service locator and swift features used are examined.
+    about: SpeedDOS, ’txtr, Zalando.
+    links:
+      -
+        name: '@eikemeier'
+        url: https://twitter.com/eikemeier
+      -
+        name: GitHub
+        url: https://github.com/zalando/ModularDemo
 ---

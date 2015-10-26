@@ -39,4 +39,12 @@ speakers:
       -
         name: GitHub
         url: https://github.com/zalando/ModularDemo
+  -
+    name: Matteo Caldari
+    image: matteo
+    title: iOS at EyeEm (Lightning Talk)
+    links:
+      -
+        name: '@matteo'
+        url: https://twitter.com/matteo
 ---

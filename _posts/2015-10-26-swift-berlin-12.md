@@ -21,6 +21,9 @@ speakers:
     abstract: Every day, more communities arise in different verticals. Spotify for music, Github for Development etc. Tapglue helps you to turn your app into a social network too. In this presentation you'll learn how easy it is to do it and why it makes sense for most apps in the first place.
     links:
       -
+        name: '@onurakpolat'
+        url: https://twitter.com/onurakpolat
+      -
         url: https://www.tapglue.com
         name: Tapglue
 ---

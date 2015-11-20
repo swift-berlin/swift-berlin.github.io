@@ -34,12 +34,16 @@ speakers:
         url: https://github.com/jensravens/interstellar
         name: Interstellar (GitHub)
   -
-    name: Joachim Garth
+    name: Josh Garth
     image: garth
-    title:
-    abstract:
+    title: Industries Full Of Frustrated Consumers
+    about: 'Josh works as Head of Mobile at Crispy Mountain, a one-stop Rails & iOS shop for startup MVPs and full-blown industrial software.'
+    abstract: Industrial software isn't exactly synonymous with great design, ease-of-use or a fun process. Why shouldn't it be?
     links:
       -
-        url: https://www.crispymtn.com
+        url: https://crispymtn.com
         name: crispymtn.com
+      -
+        url: https://twitter.com/drgravity
+        name: '@DrGravity'
 ---

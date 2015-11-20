@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #12'
 drinks: Wi-fi, drinks and food are free (sponsored by EyeEm).
-permalink: /
 location:
   name: EyeEm
   url: https://www.eyeem.com

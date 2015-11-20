@@ -33,4 +33,13 @@ speakers:
       -
         url: https://github.com/jensravens/interstellar
         name: Interstellar (GitHub)
+  -
+    name: Joachim Garth
+    image: garth
+    title:
+    abstract:
+    links:
+      -
+        url: https://www.crispymtn.com
+        name: crispymtn.com
 ---

@@ -46,4 +46,17 @@ speakers:
       -
         url: https://twitter.com/drgravity
         name: '@DrGravity'
+  -
+    name: Ariel Elkin
+    image: arivocals
+    title: Using Swift enums with collection views and table views
+    about: 'Ariel is an iOS developer, with big interest in audio and blockchains. He contributes to open source libraries and puts his dishes in the dishwasher. Currently working at at <a href="https://www.project-a.com/" target="new">Project A</a>.'
+    abstract: A good way to let the Swift compiler help you build a rock-solid UICollectionView or UITableView is to manage their layout structure through an enum. This talk will show you a simple and safe way to implement this in your Swift apps.
+    links:
+      -
+        url: http://arielelkin.github.io/
+        name: Ariel's website
+      -
+        url: https://twitter.com/arivocals
+        name: '@AriVocals'
 ---

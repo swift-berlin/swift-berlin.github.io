@@ -84,3 +84,9 @@
     }
   }
 }
+
+@media screen and (min-width: 768px) {
+  .speaker:nth-child(3n+1) {
+    clear: left;
+  }
+}

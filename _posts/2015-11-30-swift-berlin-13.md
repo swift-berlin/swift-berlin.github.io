@@ -33,6 +33,9 @@ speakers:
       -
         url: https://github.com/jensravens/interstellar
         name: Interstellar (GitHub)
+      -
+        url: http://www.slideshare.net/jensravens/taming-asynchronous-transforms-with-interstellar
+        name: Slides on Slideshare
   -
     name: Josh Garth
     image: garth

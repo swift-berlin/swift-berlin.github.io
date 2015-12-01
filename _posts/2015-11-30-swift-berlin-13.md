@@ -49,6 +49,9 @@ speakers:
       -
         url: https://twitter.com/drgravity
         name: '@DrGravity'
+      -
+        url: http://www.slideshare.net/crispymtn/industrial-software
+        name: Slides on Slideshare
   -
     name: Ariel Elkin
     image: arivocals

@@ -65,4 +65,7 @@ speakers:
       -
         url: https://twitter.com/arivocals
         name: '@AriVocals'
+      -
+        url: http://www.slideshare.net/arielelkin/using-swift-enums-for-safer-uicollectionviews-and-uitableviews
+        name: Slides on Slideshare
 ---

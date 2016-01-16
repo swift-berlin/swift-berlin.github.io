@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #13'
 drinks: Wi-fi and drinks are free (sponsored by Wooga).
-permalink: /
 location:
   name: Wooga
   url: https://www.wooga.com

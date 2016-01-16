@@ -52,7 +52,7 @@ layout: default
             <h3>{{speaker.name}}</h3>
             <p><strong>{{speaker.title}}</strong></p>
             <p>{{speaker.abstract}}</p>
-            <p>{{speaker.about}}</p>
+            <p class="bio">{{speaker.about}}</p>
             <p class="links">
               {% for link in speaker.links %}
                 <a href="{{link.url}}" target="new">{{link.name}}</a>

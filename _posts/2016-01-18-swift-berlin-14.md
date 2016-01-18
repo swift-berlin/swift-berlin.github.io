@@ -18,6 +18,7 @@ speakers:
     title: Swift Package Manager
     image: neonacho
     about: iOS at Contentful and Senior VP of Evil at CocoaPods.
+    abstract: The recent open source release of Swift included a first-party dependency manager, the Swift Package Manager. Let's see what it does, what's involved in building our own packages, how it works and look at its relation to other dependency managers.
     links:
       -
         url: https://twitter.com/NeoNacho

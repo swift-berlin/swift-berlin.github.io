@@ -23,6 +23,12 @@ speakers:
       -
         url: https://twitter.com/NeoNacho
         name: '@NeoNacho'
+      -
+        url: https://speakerdeck.com/neonichu/swift-package-manager
+        name: Slides (PDF)
+      -
+        url: https://github.com/neonichu/swiftpm-talk
+        name: Slides (GitHub repo)
   -
     name: Maxim Zaks
     image: iceX33

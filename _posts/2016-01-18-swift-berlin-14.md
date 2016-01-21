@@ -38,6 +38,9 @@ speakers:
       -
         url: https://twitter.com/iceX33
         name: '@iceX33'
+      -
+        url: http://www.slideshare.net/maximzaks/beyond-json-with-flatbuffers
+        name: Slides on Slideshare
   -
     name: Jens Ravens
     image: jensravens
@@ -54,4 +57,10 @@ speakers:
       -
         url: https://twitter.com/jensravens
         name: '@JensRavens'
+      -
+        url: http://www.slideshare.net/jensravens/server-side-swift-with-swag
+        name: Slides on Slideshare
+      -
+        url: https://github.com/swagproject/swag
+        name: Swag Framework
 ---

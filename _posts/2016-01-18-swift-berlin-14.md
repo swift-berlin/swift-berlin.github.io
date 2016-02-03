@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #14'
 drinks: Wi-fi and drinks are free (sponsored by nerdgeschoss).
-permalink: /
 location:
   name: Wimdu
   url: https://www.wimdu.com

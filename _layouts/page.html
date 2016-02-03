@@ -1,14 +1,58 @@
 ---
 layout: default
 ---
-<div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
+<div class="container">
+  <div class="page">
+    {{content}}
+  </div>
 </div>
+
+<div class="spacer"></div>
+
+<section id="signup" class="signup">
+  <form method="post" action="http://nerdgeschossberlin.us7.list-manage1.com/subscribe/post?u=908a2b4a2459206128cbf70df&id=882566a362" name="mc-embedded-subscribe-form">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8">
+          <input type="text" name="EMAIL" placeholder="Enter your e-mail" spellcheck="false">
+        </div>
+        <div class="col-sm-4">
+          <button class="btn btn-large btn-danger" type="submit">Subscribe to our newsletter</button>
+        </div>
+      </div>
+    </div>
+  </form>
+</section>
+
+<secion id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3">
+        <h3>nerdgeschoss GmbH</h3>
+        <p>
+          Wilhelmstraße 41<br>
+          D-10963 Berlin<br>
+          +49 30 36 42 86 58
+        </p>
+        <p>
+          <a href="http://nerdgeschoss.de/contact/">Impressum</a>
+        </p>
+      </div>
+      <div class="col-sm-4">
+        <h3>Help</h3>
+        <p>Need help? Don’t hestiate to ask us something. Email us directly at
+          <a href="#">hello@nerdgeschoss.de</a>.
+          You can checkout our <a href="http://nerdgeschoss.de">website</a> or the <a href="http://www.meetup.com/swift-berlin/events/187497112/">meetup group</a>.
+        </p>
+      </div>
+      <div class="col-sm-3">
+        <h3 id="archive">Archive</h3>
+        <p>
+          {% for post in site.posts %}
+            <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}} @ {{post.location.name}}</a><br>
+          {% endfor %}
+        </p>
+      </div>
+    </div>
+  </div>
+</secion>

@@ -24,4 +24,14 @@ lightnings:
       -
         url: https://twitter.com/shelfd
         name: '@Shelfd'
+  -
+    name: Mohamed Iyad Tamer Agha
+    company: Immobilien Scout
+    title: Why Companies should migrate to Swift
+    image: iyadagha
+    abstract: A lightning talk to share some thoughts about migrating Objective-C projects to Swift.
+    links:
+      -
+        url: https://twitter.com/iyadagha
+        name: '@iyadagha'
 ---

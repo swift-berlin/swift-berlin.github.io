@@ -13,7 +13,26 @@ location:
     - first entrance to the right,
     - look for “Zeta” on the companies list, fifth floor
 speakers:
+  -
+    name: Mykhailo Gerasymenko
+    company: Wire
+    image: anon
+    title: "Swift custom operators: The good, the bad and the ugly."
+    links:
 lightnings:
+  -
+    name: Alan Duric
+    company: Wire
+    title: Wire
+    image: alanduric
+    abstract: We are building a simple tool to communicate with text, voice, pictures and media — all beautifully woven together for modern devices.
+    links:
+      -
+        url: https://twitter.com/alanduric
+        name: '@alanduric'
+      -
+        url: https://wire.com
+        name: 'wire.com'
   -
     name: David Streit
     company: Shelfd

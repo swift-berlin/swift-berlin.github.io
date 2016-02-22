@@ -13,5 +13,15 @@ location:
     - first entrance to the right,
     - look for “Zeta” on the companies list, fifth floor
 speakers:
-
+lightnings:
+  -
+    name: David Streit
+    company: Shelfd
+    title: Introducing the digital shelf
+    image: shelfd
+    abstract: Shelfd helps you to discover, store and present your favorite video and audio content. Therefore we aggregated media sources that are available to you, like broadcast, streaming-services and other media platforms. With Shelfd you can easily create collections across multiple providers or subscribe to likable channels and trusted brands. We want you to watch or listen to what you want, when you want it.
+    links:
+      -
+        url: https://twitter.com/shelfd
+        name: '@Shelfd'
 ---

@@ -71,6 +71,32 @@ layout: default
       </div>
     </div>
   {% endif %}
+  {% if page.lightnings.size > 0 %}
+    <h2>Lightning Talks</h2>
+    <div class="row">
+      {% for speaker in page.lightnings %}
+        <div class="col-sm-4 speaker">
+          <img src="/img/speakers/{{speaker.image}}.jpg">
+          <div class="speaker-info">
+            <h3>
+              {{speaker.name}}
+              {% if speaker.company %}
+                <small>from {{speaker.company}}</small>
+              {% endif %}
+            </h3>
+            <p><strong>{{speaker.title}}</strong></p>
+            <p>{{speaker.abstract}}</p>
+            <p class="bio">{{speaker.about}}</p>
+            <p class="links">
+              {% for link in speaker.links %}
+                <a href="{{link.url}}" target="new">{{link.name}}</a>
+              {% endfor %}
+            </p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
 </div>
 
 

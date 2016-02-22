@@ -42,8 +42,16 @@ layout: default
 {{ content }}
 
 <div class="container">
-  <h2>Speakers</h2>
+  {% if page.speakers == nil or page.speakers.size < 3 %}
+    <div class="row text-center">
+      <div class="col-md-8 col-md-offset-2">
+        <h3>Speakers wanted!</h3>
+        <p>Hey, do you want to propose a talk? Read here <a href="/how-to-become-a-speaker">how to become a speaker</a>!</p>
+      </div>
+    </div>
+  {% endif %}
   {% if page.speakers.size > 0 %}
+    <h2>Speakers</h2>
     <div class="row">
       {% for speaker in page.speakers %}
         <div class="col-sm-4 speaker">
@@ -61,14 +69,6 @@ layout: default
           </div>
         </div>
       {% endfor %}
-    </div>
-  {% endif %}
-  {% if page.speakers == nil or page.speakers.size < 3 %}
-    <div class="row text-center">
-      <div class="col-md-8 col-md-offset-2">
-        <h3>Speakers wanted!</h3>
-        <p>Hey, do you want to propose a talk? Read here <a href="/how-to-become-a-speaker">how to become a speaker</a>!</p>
-      </div>
     </div>
   {% endif %}
   {% if page.lightnings.size > 0 %}

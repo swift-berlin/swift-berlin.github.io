@@ -36,6 +36,9 @@ lightnings:
       -
         url: http://jensravens.com
         name: 'jensravens.com'
+      -
+        url: http://www.slideshare.net/jensravens/working-with-xcode-and-swift-package-manager
+        name: Slides on Slideshare
   -
     name: David Streit
     company: Shelfd

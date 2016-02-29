@@ -23,18 +23,19 @@ speakers:
     links:
 lightnings:
   -
-    name: Alan Duric
-    company: Wire
-    title: Wire
-    image: alanduric
-    abstract: We are building a simple tool to communicate with text, voice, pictures and media — all beautifully woven together for modern devices.
+    name: Jens Ravens
+    company: nerdgeschoss
+    title: Xcode and Swift Package Manager
+    image: jensravens
+    about: 'Jens is an iOS and OS X Developer, writing ObjC since 2006. Currently working at <a href="http://nerdgeschoss.de" target="new">nerdgeschoss</a>'
+    abstract: Learn how to use Xcode with the new Swift project layout and integrate autocompletion with your packages.
     links:
       -
-        url: https://twitter.com/alanduric
-        name: '@alanduric'
+        url: https://twitter.com/jensravens
+        name: '@jensravens'
       -
-        url: https://wire.com
-        name: 'wire.com'
+        url: http://jensravens.com
+        name: 'jensravens.com'
   -
     name: David Streit
     company: Shelfd

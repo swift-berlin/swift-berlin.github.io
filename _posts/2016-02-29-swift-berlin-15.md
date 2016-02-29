@@ -16,8 +16,10 @@ speakers:
   -
     name: Mykhailo Gerasymenko
     company: Wire
-    image: anon
+    image: mykhailo
     title: "Swift custom operators: The good, the bad and the ugly."
+    abstract: A quick technical dive into the world of swift custom operators with some practical examples and unusual techniques.
+    about: Originally from Ukraine, iOS developer since iOS 2.1 SDK, currently working on UI of Wire.
     links:
 lightnings:
   -

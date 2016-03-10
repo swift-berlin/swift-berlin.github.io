@@ -24,6 +24,9 @@ speakers:
       -
         url: http://www.slideshare.net/MihailGerasimenko/custom-swift-operators-the-good-the-bad-and-the-ugly
         name: Slides on Slideshare
+      -
+        url: https://www.youtube.com/watch?v=Jt29O_Ukmgo
+        name: Watch this talk on YouTube
 lightnings:
   -
     name: Jens Ravens
@@ -42,6 +45,9 @@ lightnings:
       -
         url: http://www.slideshare.net/jensravens/working-with-xcode-and-swift-package-manager
         name: Slides on Slideshare
+      -
+        url: https://www.youtube.com/watch?v=OIWqkg9Ry1g
+        name: Watch this talk on YouTube
   -
     name: David Streit
     company: Shelfd
@@ -52,6 +58,9 @@ lightnings:
       -
         url: https://twitter.com/shelfd
         name: '@Shelfd'
+      -
+        url: https://www.youtube.com/watch?v=jZmyItr2vQ8
+        name: Watch this talk on YouTube
   -
     name: Mohamed Iyad Tamer Agha
     company: Immobilien Scout
@@ -62,4 +71,7 @@ lightnings:
       -
         url: https://twitter.com/iyadagha
         name: '@iyadagha'
+      -
+        url: https://www.youtube.com/watch?v=a5S1emzqnJI
+        name: Watch this talk on YouTube
 ---

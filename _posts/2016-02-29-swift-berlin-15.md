@@ -21,6 +21,9 @@ speakers:
     abstract: A quick technical dive into the world of swift custom operators with some practical examples and unusual techniques.
     about: Originally from Ukraine, iOS developer since iOS 2.1 SDK, currently working on UI of Wire.
     links:
+      -
+        url: http://www.slideshare.net/MihailGerasimenko/custom-swift-operators-the-good-the-bad-and-the-ugly
+        name: Slides on Slideshare
 lightnings:
   -
     name: Jens Ravens

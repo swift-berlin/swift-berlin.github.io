@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #15'
 drinks: Wi-fi, drinks and pizza are free (sponsored by wire). Also there are quite a lot of bars and restaurants around the place.
-permalink: /
 location:
   name: wire
   url: http://wire.com

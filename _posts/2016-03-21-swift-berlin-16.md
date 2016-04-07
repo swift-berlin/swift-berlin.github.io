@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #16'
 drinks: Wi-fi, drinks and food are free (sponsored by Immobilienscout24). Also there are quite a lot of bars and restaurants around the place.
-permalink: /
 location:
   name: Immobilienscout24
   url: http://www.immobilienscout24.de/unternehmen/jobs-karriere.html

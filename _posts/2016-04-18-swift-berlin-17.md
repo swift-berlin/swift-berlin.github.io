@@ -13,4 +13,14 @@ location:
     - 10178 Berlin
 
 speakers:
+  -
+    name: Gasper Kolenc
+    company: Dubsmash
+    image: gasper
+    title: Utilizing AVFoundation at Dubsmash
+    abstract: I will present the Dubsmash video creation flow based on where we use AVFoundation to its fullest extent. It has been very much a love / hate relationship with AVFoundation so I will also present some pitfalls we faced and how to overcome them.
+    links:
+      -
+        url: https://www.dubsmash.com/
+        name: 'dubsmash.com'
 ---

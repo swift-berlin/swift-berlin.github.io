@@ -23,4 +23,17 @@ speakers:
       -
         url: https://www.dubsmash.com/
         name: 'dubsmash.com'
+  -
+    name: Daniel Tomlinson
+    company: Ride
+    image: dantoml
+    title: REST API's in Swift
+    abstract: An introduction to building REST API's in Swift, starting with an intro to the key components and tools before then diving in to building a simple todo list API.
+    links:
+      -
+        url: https://twitter.com/dantoml
+        name: '@dantoml'
+      -
+        url: https://dantoml.com
+        name: 'dantoml.com'
 ---

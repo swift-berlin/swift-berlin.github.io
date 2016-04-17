@@ -36,4 +36,18 @@ speakers:
       -
         url: https://dantoml.com
         name: 'dantoml.com'
+  -
+    name: Jens Ravens
+    company: nerdgeschoss
+    title: Interstellar v2
+    image: jensravens
+    about: 'Jens is an iOS and OS X Developer, writing ObjC since 2006. Currently working at <a href="http://nerdgeschoss.de" target="new">nerdgeschoss</a>.'
+    abstract: See how reactive programming can make your code shorter, easier to read and more elegant with the next major version of the <a href="https://github.com/jensravens/Interstellar" target="new">Interstellar</a> framework.
+    links:
+      -
+        url: https://twitter.com/jensravens
+        name: '@jensravens'
+      -
+        url: http://jensravens.com
+        name: 'jensravens.com'
 ---

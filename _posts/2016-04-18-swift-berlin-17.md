@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #17'
 drinks: Wi-fi, drinks and food are free (sponsored by Dubsmash). Also there are quite a lot of bars and restaurants around the place.
-permalink: /
 location:
   name: Dubsmash
   url: https://www.dubsmash.com/jobs/

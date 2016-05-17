@@ -23,6 +23,9 @@ speakers:
       -
         url: https://www.dubsmash.com/
         name: 'dubsmash.com'
+      -
+        url: http://www.slideshare.net/GaperKolenc/utilizing-avfoundation-at-dubsmash
+        name: 'Slides on Slideshare'
   -
     name: Daniel Tomlinson
     company: Ride

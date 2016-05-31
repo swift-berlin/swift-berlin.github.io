@@ -36,6 +36,9 @@ speakers:
       -
         url: https://twitter.com/bhatthead
         name: '@bhatthead'
+      -
+        url: http://www.slideshare.net/bhatshyam/ui-testing-with-earl-grey
+        name: Slides on Slideshare
 lightnings:
   -
     name: Marcio Klepacz

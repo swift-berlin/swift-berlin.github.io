@@ -23,4 +23,22 @@ speakers:
     -
       url: https://twitter.com/KrauseFx
       name: '@KrauseFx'
+    -
+      url: https://fastlane.tools
+      name: fastlane.tools
+  -
+    name: Chris Eidhof and Florian Kugler
+    image: chriseidhof
+    title: Live-Coding Talk
+    abstract: Chris and Florian from objc.io will give a short a live-coding talk, similar in style to their new <a href="https://talk.objc.io">Swift Talk</a> project.
+    links:
+    -
+      url: http://objc.io
+      name: 'objc.io'
+    -
+      url: https://twitter.com/chriseidhof
+      name: '@chriseidhof'
+    -
+      url: https://twitter.com/floriankugler
+      name: '@floriankugler'
 ---

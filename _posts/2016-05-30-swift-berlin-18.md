@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #18'
 drinks: Wi-fi, drinks and food are free (sponsored by Soundcloud). Also there are quite a lot of bars and restaurants around the place.
-permalink: /
 location:
   name: Soundcloud
   url: https://soundcloud.com/jobs

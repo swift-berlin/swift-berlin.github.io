@@ -25,8 +25,9 @@ speakers:
         name: 'dubsmash.com'
   -
     name: Alexsander Akers
+    company: Shutterstock
     image: alexsander
-    title: Devon Scope: now built into your iPhone
+    title: Devon Scope now built into your iPhone
     abstract: Surprise!
     links:
       -

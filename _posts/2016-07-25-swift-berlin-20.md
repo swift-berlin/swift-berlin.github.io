@@ -17,10 +17,19 @@ speakers:
     name: Gasper Kolenc
     company: Dubsmash
     image: gasper
-    title: TBA
-    abstract: TBA
+    title: Sound manipulation with AVAudioEngine
+    abstract: I will present how we achieve sound manipulation at Dubsmash to make videos more engaging. I will talk how one can achieve both live audio manipulation as well as later exporting the manipulated audio files themselves.
     links:
       -
         url: https://www.dubsmash.com/
         name: 'dubsmash.com'
+  -
+    name: Alexsander Akers
+    image: alexsander
+    title: Devon Scope: now built into your iPhone
+    abstract: Surprise!
+    links:
+      -
+        url: https://www.twitter.com/a2
+        name: Twitter
 ---

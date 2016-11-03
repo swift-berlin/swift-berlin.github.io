@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #21'
 drinks: Hosted by BCG Digital Ventures. Also there are quite a lot of bars and restaurants around the place.
-permalink: /
 location:
   name: BCG Digital Ventures
   url: https://www.bcgdv.com

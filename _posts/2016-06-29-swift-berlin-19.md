@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #19'
 drinks: Wi-fi, drinks and food are free (sponsored by GetYourGuide). Also there are quite a lot of bars and restaurants around the place.
-permalink: /
 location:
   name: GetYourGuide
   url: https://www.getyourguide.com

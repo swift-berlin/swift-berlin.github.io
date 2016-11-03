@@ -1,13 +1,12 @@
 # Site settings
 title: swift.berlin
 email: hello@nerdgeschoss.de
-description: > 
+description: >
   Meet awesome swift developers at our monthly swift.berlin meetup.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://swift.berlin" # the base hostname & protocol for your site
 twitter_username: swiftberlin
 github_username:  jensravens
-port: 3000
 future: true
 
 permalink: :title/

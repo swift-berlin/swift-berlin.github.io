@@ -13,5 +13,14 @@ location:
     - 10969 Berlin
 
 speakers:
-
+  -
+    name: Maxim Zaks
+    company: -
+    image: iceX33
+    title: Asynchronous Behaviour Trees with Swift
+    abstract: Behaviour Trees is a concept known in game development and robotics. I want to show a little hack I did, making behaviour trees asynchronous and implementing them in Swift. I might also mention why they can be usefull for Swift developers.
+    links:
+    -
+      url: https://twitter.com/iceX33
+      name: Twitter
 ---

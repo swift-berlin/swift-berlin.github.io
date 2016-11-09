@@ -35,4 +35,22 @@ speakers:
       -
         url: https://kandelvijaya.com
         name: 'Website'
+  -
+    name: Konrad Feiler
+    image: konradfeiler
+    company: Viacom
+    title: Recursive Enums, Value Types in Swift & Performance Analysis
+    abstract: One feature in Swift that is often overlooked are indirect enum cases. With those we can create tree based data structures that are benefiting from Swifts efficient value types. In my talk I will explain this, using the an example called KD-Tree a k-dimensional binary space partitioning tree that is used for nearest neighbour searches among other things. Furthermore I will present performance results that present the advantages of of value types in general.
+    bio: Working as a freelance dev since iOS 3.2, I have recently taken over the job of lead developer for Viacom in Berlin. At Viacom we work on international video on demand apps for brands like ComedyCentral, Nickelodeon or MTV.
+    audience: both Swift beginners who want to learn more about value types and intermediate developers who are interested in the advanced features of enums.
+    links:
+      -
+        url: https://twitter.com/bersaelor
+        name: '@bersaelor'
+      -
+        url: https://github.com/Bersaelor/KDTree
+        name: 'Example project'
+      -
+        url: http://www.viacom.de
+        name: 'Website'
 ---

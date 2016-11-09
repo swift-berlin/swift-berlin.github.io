@@ -15,7 +15,6 @@ location:
 speakers:
   -
     name: Maxim Zaks
-    company: -
     image: iceX33
     title: Asynchronous Behaviour Trees with Swift
     abstract: Behaviour Trees is a concept known in game development and robotics. I want to show a little hack I did, making behaviour trees asynchronous and implementing them in Swift. I might also mention why they can be usefull for Swift developers.
@@ -23,4 +22,17 @@ speakers:
     -
       url: https://twitter.com/iceX33
       name: Twitter
+  -
+    name: Vijaya P. Kandel
+    image: vijayakandel
+    company: Zalando SE
+    title: Migrating Zalando App to Swift3
+    abstract: Why did we migrate? Challenges faced and whats cool about Swift3.
+    links:
+      -
+        url: https://twitter.com/kandelvijaya
+        name: '@kandelvijaya'
+      -
+        url: https://kandelvijaya.com
+        name: 'Website'
 ---

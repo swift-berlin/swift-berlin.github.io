@@ -36,4 +36,14 @@ speakers:
       -
         url: https://www.youtube.com/watch?v=6JbZGA5SvVM
         name: "'Space Galaxy Rogue' Teaser Trailer"
+  -
+    name: Arash Kashi
+    image: ronnydeicke
+    company: Feingold
+    title: "How I came with peace with Core Data."
+    abstract: Mobile applications tend to need more local data storage nowadays. CoreData is a powerful tool for storing and querying locally stored information. In the first glance it may appears a little complicated to setup and use its power, at least this was the case to me. This talk aims to present a quick and easy way to setup Core Data. If you are interested to take a look before the meet-up, checkout the github link below.
+    links:
+      -
+        url: https://github.com/arashkashi/Learncoredata/
+        name: "Learn Core Data"
 ---

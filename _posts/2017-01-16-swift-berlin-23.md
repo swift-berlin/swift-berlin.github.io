@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #23'
 drinks: Hosted by Babbel. Also there are quite a lot of bars and restaurants around the place.
-permalink: /
 location:
   name: Lesson Nine GmbH
   url: https://babbel.com

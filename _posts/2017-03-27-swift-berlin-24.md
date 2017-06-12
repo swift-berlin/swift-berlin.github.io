@@ -1,7 +1,6 @@
 ---
 title:  'swift.berlin #24'
 drinks: Hosted by Viacom International. Drinks by Viacom, Pizza by keepsafe.
-permalink: /
 location:
   name: Viacom International Media Networks
   url: http://www.viacom.de

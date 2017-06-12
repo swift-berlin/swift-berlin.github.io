@@ -3,12 +3,12 @@ title:  'swift.berlin #25'
 drinks: Hosting, drinks and pizza are sponsored by Flixbus.
 permalink: /
 location:
-  name: Viacom International Media Networks
-  url: http://www.viacom.de
+  name: FlixMobility GmbH
+  url: https://www.flixbus.com/
   about:
   map: https://www.google.com/maps/embed/v1/place?q=Karl-Liebknecht-Str+29,Berlin
   address:
-    - Flixbus
+    - FlixMobility GmbH
     - Karl-Liebknecht-Str. 29
     - Berlin
 
